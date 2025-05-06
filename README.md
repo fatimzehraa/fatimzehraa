@@ -1,22 +1,11 @@
 # 👋 Hi, I'm Fatima-zahra El Bouaazzaoui (Temma)
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      
-👩‍💻 **About Me**  
-I'm **Fatima-zahra El Bouaazzaoui**, a junior back-end developer and 1337 student from Morocco.  
-I enjoy building clean, scalable APIs using tools like Express.js, Hono, and PostgreSQL.  
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=fatimzehraa&show_icons=true&theme=material-palenight">
+
+👩‍💻 **About Me**
+I'm **Fatima-zahra El Bouaazzaoui**, a junior back-end developer and 1337 student from Morocco.
+I enjoy building clean, scalable APIs using tools like Express.js, Hono, and PostgreSQL.
 I care about writing readable code, solving real problems, and growing through every project.
-
-     
-</td>
-    <td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimzehraa&show_icons=true)
-
-</td>
-  </tr>
-</table>
 
 - 💻 I love building clean, efficient APIs and scalable web backends.
 - 🌱 Constant learner — currently deepening my knowledge of TypeScript and database performance.
@@ -41,7 +30,7 @@ I care about writing readable code, solving real problems, and growing through e
 
 🏓 Pong (ft_transcendence) – A full-stack multiplayer Pong game developed during my time at 1337, in collaboration with Ismail, Said, and Ayoub. The app features real-time gameplay, matchmaking, and user profiles with chat and friend systems, built using NestJS, NextJs, React, and WebSockets.  
 
-[![fatimzehraa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fatimzehraa)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![fatimzehraa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fatimzehraa&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🤝 Let's Connect
 - 📫 fz.elbouaazzaoui@gmail.com
